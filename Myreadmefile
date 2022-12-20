@@ -1,5 +1,11 @@
 # TestRepo1
 NewTestRepo01
 This is New Read me file and test to import.
+<<<<<<< HEAD
 Unable to add the modified file to remote repo.
 vxx
+=======
+Hi How are you
+I am fine 
+Em chestunna
+>>>>>>> branch 'main' of https://github.com/KRK123KRK/TestRepo1.git
